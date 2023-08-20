@@ -5,6 +5,9 @@ void main() {
 
   var age2 = "22";
 
+  var name = "mahafuj";
+
+  print(name);
   print(age);
   print(age1);
   print(age2);
